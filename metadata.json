@@ -1,0 +1,6 @@
+{
+  "name": "Sahabat Rimba",
+  "description": "Web game edukatif anak TK B bertema binatang buas: mencocokkan gambar dengan bayangannya lengkap dengan suara ramah anak dan apresiasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
